@@ -1,2 +1,2 @@
-# Todim-Masaustu-Uygulamasi
- Çok kriterli karar verme tekniklerinden TODİM yöntemi kullanılarak bir masaüstü uygulamanın geliştirilmesi
+# TODIM-Masaustu-Uygulamasi
+ Çok kriterli karar verme tekniklerinden TODIM yöntemini kullanarak bir masaüstü uygulama geliştirme
