@@ -1,0 +1,9 @@
+C:\Users\90544\Desktop\tez\todim\todim\bin\x86\Release\todim.exe.config
+C:\Users\90544\Desktop\tez\todim\todim\bin\x86\Release\todim.exe
+C:\Users\90544\Desktop\tez\todim\todim\bin\x86\Release\todim.pdb
+C:\Users\90544\Desktop\tez\todim\todim\obj\x86\Release\todim.csproj.ResolveComReference.cache
+C:\Users\90544\Desktop\tez\todim\todim\obj\x86\Release\todim.Form1.resources
+C:\Users\90544\Desktop\tez\todim\todim\obj\x86\Release\todim.Properties.Resources.resources
+C:\Users\90544\Desktop\tez\todim\todim\obj\x86\Release\todim.csproj.GenerateResource.cache
+C:\Users\90544\Desktop\tez\todim\todim\obj\x86\Release\todim.exe
+C:\Users\90544\Desktop\tez\todim\todim\obj\x86\Release\todim.pdb
